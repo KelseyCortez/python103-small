@@ -1,10 +1,10 @@
 # print a 5x5 square with * characters
 
-side = int(input('Square of stars '))
+side = 5
 
 
 
 for i in range(side):
     for i in range(side):
-         print('*', end = '  ')
+         print('*', end = '')
     print()

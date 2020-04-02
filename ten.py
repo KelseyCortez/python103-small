@@ -4,5 +4,5 @@ side = int(input('Enter any side of a square: '))
 
 for i in range(side):
     for i in range(side):
-        print('*', end = '  ')
+        print('*', end = '')
     print()
